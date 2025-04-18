@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👨‍💻 Pedro Henrique Almeida
 
-<!--
-**eumafu/eumafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Análise e Desenvolvimento de Sistemas – Mackenzie  
+💼 Futuro desenvolvedor Java | Backend em construção  
+🧠 Apaixonado por tecnologia, curioso por natureza e focado em evolução constante.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente estou em transição de carreira, vindo de uma trajetória com atendimento ao público — o que me proporcionou senso de responsabilidade, comunicação clara e foco em resolver problemas.
+
+Hoje, estou totalmente dedicado a construir minha base sólida em desenvolvimento backend com **Java**, buscando não só aprender a tecnologia, mas entender a lógica por trás dos sistemas que transformam empresas e pessoas.
+
+---
+
+## 🧰 Tecnologias em formação
+
+- 💻 Java (POO, JDBC, JavaFX)
+- 🔧 Spring Boot (em andamento)
+- 🗃️ MySQL / PostgreSQL
+- 🧪 Git e GitHub
+- 🐳 Docker (conceitos iniciais)
+- 🌐 HTML, CSS (noções básicas)
+- 📦 VS Code / IntelliJ IDEA
+
+---
+
+## 📚 Projetos em destaque
+
+| Projeto | Descrição | Status |
+|--------|-----------|--------|
+| `task-sphere` | Sistema de controle de tarefas e produtividade pessoal | Em construção 🧱 |
+| `estudos-java` | Repositório com todos os exercícios e projetos feitos durante o curso do Nélio Alves | Em andamento ✅ |
+| `obsidian-vault` | Anotações de estudo organizadas por temas técnicos (Java, Git, Banco de Dados) | Atualizado regularmente 📘 |
+
+---
+
+## 📈 Em evolução
+
+> Estou focado em:
+- Aprimorar lógica e algoritmos
+- Entender padrões de projeto
+- Criar APIs REST com Spring Boot
+- Publicar meu primeiro projeto em produção
+
+---
+
+## 📫 Contato
+
+- 📧 henriquealmeidaleite@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/euhenriquealmeida)  
+- 🧠 Sempre aberto a trocar ideias e aprender junto!
+
+---
+
+> “Não busco atalhos, busco domínio.”  
+> *— Pedro Henrique Almeida*
